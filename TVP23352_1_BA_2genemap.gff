@@ -1,0 +1,12 @@
+.	.	gene	26227	26454	.	+	.	 gene_name=E
+.	.	gene	26505	27173	.	+	.	 gene_name=M
+.	.	gene	28256	29506	.	+	.	 gene_name=N
+.	.	gene	266	13474	.	+	.	 gene_name=ORF1a
+.	.	gene	13459	21546	.	+	.	 gene_name=ORF1b
+.	.	gene	25375	26202	.	+	.	 gene_name=ORF3a
+.	.	gene	27184	27369	.	+	.	 gene_name=ORF6
+.	.	gene	27376	27741	.	+	.	 gene_name=ORF7a
+.	.	gene	27738	27869	.	+	.	 gene_name=ORF7b
+.	.	gene	27876	28241	.	+	.	 gene_name=ORF8
+.	.	gene	28266	28550	.	+	.	 gene_name=ORF9b
+.	.	gene	21554	25366	.	+	.	 gene_name=S
